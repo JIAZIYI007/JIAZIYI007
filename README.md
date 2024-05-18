@@ -1,12 +1,19 @@
-### Hi there 👋
+# Hello! I am JAIZIYI007!
+I'm an grade six student developer in China.
+I use Email often.
+My Github Status:
+![JIAZIYI007 的 Github Status](https://github-readme-stats.vercel.app/api?username=JIAZIYI007&theme=dark&show_icons=true)
 
-- 🔭 I’m currently working on Github Pages
-- 🌱 I’m currently learning HTML/JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: -     
- - Email:jiaziyi007_osub@outlook.com
- - Bilibili:贾子懿007
- - MCMOD:as same as Github
-- ⚡ Fun fact: ...
+The code languages I can use:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIAZIYI007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+The languages I can say:  
+| Language | How? |
+|-----|-----|
+| 中文(简体) | 母语 |
+| 中文(繁體) | 看得懂，也會說，不會寫 |
+| English | Know a lot |
+## Contact me?
+Email: jiaziyi007_osub@outlook.com
+Bilibili: as same as my name
+MCMOD:as same as my username
