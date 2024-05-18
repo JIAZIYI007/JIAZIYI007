@@ -1,10 +1,12 @@
 # Hello! I am JAIZIYI007!
 I'm an grade six student developer in China.
 I use Email often.
+
 My Github Status:
 ![JIAZIYI007 的 Github Status](https://github-readme-stats.vercel.app/api?username=JIAZIYI007&theme=dark&show_icons=true)
 
 The code languages I can use:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIAZIYI007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 The languages I can say:  
