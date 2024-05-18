@@ -3,6 +3,7 @@ I'm an grade six student developer in China.
 I use Email often.
 
 My Github Status:
+
 ![JIAZIYI007 的 Github Status](https://github-readme-stats.vercel.app/api?username=JIAZIYI007&theme=dark&show_icons=true)
 
 The code languages I can use:
@@ -17,5 +18,7 @@ The languages I can say:
 | English | Know a lot |
 ## Contact me?
 Email: jiaziyi007_osub@outlook.com
+
 Bilibili: as same as my name
+
 MCMOD:as same as my username
