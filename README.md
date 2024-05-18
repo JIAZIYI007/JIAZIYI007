@@ -4,7 +4,7 @@ I use Email often.
 
 My Github Status:
 
-![JIAZIYI007 的 Github Status](https://github-readme-stats.vercel.app/api?username=JIAZIYI007&show_icons=true)
+![JIAZIYI007 的 Github Status](https://github-readme-stats.vercel.app/api?username=JIAZIYI007&theme=light&show_icons=true)
 
 The code languages I can use:
 
