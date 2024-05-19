@@ -15,7 +15,7 @@ The languages I can say:
 |-----|-----|
 | 中文(简体) | 母语 |
 | 中文(繁體) | 看得懂，也會說，不會寫 |
-| English | Know a lot |
+| English | Know a lot,But I don't often use it|
 ## Contact me?
 Email: jiaziyi007_osub@outlook.com
 
