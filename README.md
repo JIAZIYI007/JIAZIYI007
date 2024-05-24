@@ -1,4 +1,4 @@
-# Hello! I am JAIZIYI007!
+# Hello! I am JAIZIYI007.
 I'm an grade six student developer in China.
 I use Email often.
 
@@ -21,4 +21,4 @@ Email: jiaziyi007_osub@outlook.com
 
 Bilibili: as same as my name
 
-MCMOD:as same as my username
+MCMOD:as same as my name
