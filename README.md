@@ -20,5 +20,3 @@ The languages I can say:
 Email: jiaziyi007_osub@outlook.com
 
 Bilibili: as same as my name
-
-MCMOD:as same as my name
