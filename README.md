@@ -1,5 +1,5 @@
 # Hello! I am JAIZIYI007.
-I'm an grade six student developer in China.
+I'm an grade seven student developer in China.
 I use Email often.
 
 My Github Status:
