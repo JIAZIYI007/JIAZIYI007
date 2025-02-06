@@ -19,4 +19,6 @@ The languages I can say:
 ## Contact me?
 Email: jiaziyi007_osub@outlook.com
 
+Telegram:@jiaziyi007
+
 Bilibili: as same as my name
