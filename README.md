@@ -2,10 +2,6 @@
 I'm an grade seven student developer in China.
 I use Email often.
 
-My Github Status(cannot fetching resources properly so you guys cannot see it):
-
-![JIAZIYI007 的 Github Status](https://github-readme-stats.vercel.app/api?username=JIAZIYI007&theme=light&show_icons=true)
-
 The code languages I can use:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIAZIYI007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
