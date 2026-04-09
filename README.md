@@ -1,10 +1,6 @@
 # Hello! I am JAIZIYI007.
-I'm an grade seven student developer in China.
-I use Email often.
-
-The code languages I can use:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIAZIYI007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm an grade eight student developer in China.
+I use IMS(Telegram,QQ) often,sometimes use email.
 
 The languages I can say:  
 | Language | How? |
@@ -17,4 +13,6 @@ Email: jiaziyi007_osub@outlook.com
 
 Telegram:@jiaziyi007
 
-Bilibili: as same as my name
+Bilibili: as same as my name(not my username)
+
+QQ:1656331181
